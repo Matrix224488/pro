@@ -1,0 +1,254 @@
+*{
+    margin: 0%
+}
+.ft, .fo, .seven{
+    text-transform: uppercase;
+}
+.first{
+    background-color: darkgray;
+    height: 100px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+
+}
+.ff{
+    display: flex;
+    justify-content: left;
+    gap: 20px;
+    padding: 30px;
+}
+.ss{
+    display: flex;
+    justify-content: right;
+    gap: 40px;
+    margin-top: 30px;  
+    margin-right: 35px;  
+}
+.second{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    gap: 400px;
+    /* padding-top: 20px; */
+    background-color: black;
+    height: 50px;
+    color: white;
+    padding-top: 20px 0 0 0;
+}
+.third{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    gap:370px;
+background-color: black;
+color: white;
+padding-bottom: 0 0 20px  0;}
+.four{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: transparent;
+}
+.fo{
+    justify-content: left;
+    padding-left: 50px;
+}
+.ft{
+    justify-content: right;
+    padding-right: 50px;
+}
+.ft{
+    display: flex;
+    justify-content:space-between;
+    gap: 50px;
+    
+}
+.img{
+   
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    
+}
+.po{
+    line-height: 50px;
+   
+}
+.five{
+    border: 1px solid black;
+    height: 100px;
+}
+.six{
+   list-style: none;
+   display: flex;
+   justify-content: center;
+   gap: 50px;
+   padding: 20px;
+}
+.seven{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    padding: 30px;
+    margin: 0 80px ;
+    border: 1px solid black;
+    
+}
+p{
+    text-align: center;
+}
+.twe{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+   line-height: 20px;
+   
+
+}
+.eight, .nine, .ten, .eleven {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgray;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 50px;
+    border-radius: 4%;
+    color: white;
+
+}
+.eight:hover,.nine:hover, .ten:hover,.eleven:hover{
+    background-color: lightgreen;
+}
+.teen{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    gap: 250px;
+}
+.thirteen  {
+   justify-content: center;
+   display: flex;
+   list-style: none;
+   gap: 285px;
+}
+.fourteen{
+    justify-content: center;
+   display: flex;
+   list-style: none;
+   gap: 250px; 
+   
+}
+.fift{
+    justify-content: center;
+    display: flex;
+    list-style: none;
+    gap: 285px;
+}
+.sixt{
+    justify-content: center;
+    display: flex;
+    list-style: none;
+    gap: 250px;
+}
+.sevt{
+    justify-content: center;
+    display: flex;
+    list-style: none;
+    gap: 285px;
+}
+.eit{
+    justify-content: center;
+    display: flex;
+    list-style: none;
+    gap: 250px;
+}
+.nit{
+    justify-content: center;
+    display: flex;
+    list-style: none;
+    gap: 285px;
+}
+.twt{
+    justify-content: center;
+    display: flex;
+    list-style: none;
+    gap: 250px;
+}
+.borderr{
+    border: 1px solid black;
+    height: 20px;
+    /* width: 20px; */
+    border: none;
+}
+.tone{
+    height: 400px;
+    width: 1515px;
+    background-color: rgb(158, 158, 154);
+    border: none;
+}
+.ttwo{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    gap: 50px;
+    height: 200px;
+    width: 100%;
+    padding: 50px;
+
+}
+.tth{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    gap: 300px;
+    background-color: lightgreen;
+    height: 100px;
+    width: 100%;
+    padding: 50px;
+}
+.tf{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.ts{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding-top: 50px;
+}
+.tss{border: none;
+    background-color: black;
+    width: 900px;
+    height: 500px;
+    padding: 500px 0 0 200px ;
+    gap: 100px;
+    display: flex;
+justify-content: center;
+
+}
+.too{
+    display: flex;
+    justify-content: center;
+}
+.border{
+    padding: 200px;
+    background-color: black;
+    color: white;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    width: 100%;
+    height: 400px;
+}
+.para{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
